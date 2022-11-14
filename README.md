@@ -28,3 +28,12 @@
 ## Screenshot
 
 ![Screenshot](https://github.com/sahsisunny/do-you-know-me/blob/main/Screenshot.png?raw=true)
+
+## Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/sahsisunny/)
+- [Twitter](https://twitter.com/sahsisunny)
+- [Instagram](https://www.instagram.com/sahsisunny/)
+- [Facebook](https://www.facebook.com/sahsisunny/)
+- [GitHub](https://github.com/sahsisunny)
+- [Portfolio](https://sahsisunny.netlify.app/)
