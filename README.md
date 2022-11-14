@@ -26,3 +26,5 @@
 - At the end, you will get your score.
 
 ## Screenshot
+
+![Screenshot](https://github.com/sahsisunny/do-you-know-me/blob/main/Screenshot.png?raw=true)
