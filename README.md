@@ -16,7 +16,7 @@
 
 ### Option 2:
 
-- Go to the [repl.it](https://replit.com/@SahsiSunny/Exercise-15-Quiz#index.js?embed=1&output=1) link.
+- Go to the [repl.it](https://replit.com/@SahsiSunny/DO-YOU-KNOW-ME-Quiz?v=1) link.
 - Click on the run button.
 
 ## How to play?
@@ -34,6 +34,5 @@
 - [LinkedIn](https://www.linkedin.com/in/sahsisunny/)
 - [Twitter](https://twitter.com/sahsisunny)
 - [Instagram](https://www.instagram.com/sahsisunny/)
-- [Facebook](https://www.facebook.com/sahsisunny/)
 - [GitHub](https://github.com/sahsisunny)
 - [Portfolio](https://sahsisunny.netlify.app/)
