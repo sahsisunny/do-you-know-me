@@ -1,5 +1,3 @@
-// ############ My Solution ############
-
 // Import modules
 const readLineSunc = require('readline-sync');
 const chalkk = require('chalk');
