@@ -35,4 +35,4 @@
 - [Twitter](https://twitter.com/sahsisunny)
 - [Instagram](https://www.instagram.com/sahsisunny/)
 - [GitHub](https://github.com/sahsisunny)
-- [Portfolio](https://sahsisunny.netlify.app/)
+- [Portfolio](https://sunnysahsi.netlify.app/)
